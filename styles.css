@@ -13,10 +13,13 @@ header .navbar ul li a{
     display: block;
     padding:1rem;
     margin:1.5rem 0;
-    background:#737373;
     color:#737373;
     font-size: 2rem;
     border-radius: 5rem;
+}
+ul {
+	text-align: center;
+	font-size: 3rem;
 }
 header .user img{
     height:17rem;
